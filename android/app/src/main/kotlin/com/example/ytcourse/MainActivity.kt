@@ -1,0 +1,6 @@
+package com.example.ytcourse
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
